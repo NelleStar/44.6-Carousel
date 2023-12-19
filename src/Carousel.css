@@ -14,6 +14,6 @@
   color: black;
 }
 
-.bi {
-  font-size: 35px
+span {
+  cursor: pointer;
 }
